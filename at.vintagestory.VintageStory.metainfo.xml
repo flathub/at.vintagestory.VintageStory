@@ -48,6 +48,7 @@
         </screenshot>
     </screenshots>
     <releases>
+        <release version="1.14.8" date="2021-02-22"/>
         <release version="1.14.7" date="2021-01-19">
             <description>Wintery Stability Patch (v1.14.6 &amp; 1.14.7)</description>
             <url>https://www.vintagestory.at/blog.html/news/wintery-stability-patch-v1146-1147-r278/</url>
