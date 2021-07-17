@@ -49,7 +49,12 @@
     </screenshots>
     <releases>
         <release version="1.14.10" date="2021-04-16"/>
-        <release version="1.14.9" date="2021-04-15"/>
+        <release version="1.14.9" date="2021-04-15">
+            <description>
+                <p>Vintagehosting</p>
+            </description>
+            <url>https://www.vintagestory.at/forums/topic/4442-vintagehosting-v1149-v11410/</url>
+        </release>
         <release version="1.14.8" date="2021-02-22">
             <description>
                 <p>New stable, VS Mod DB, v1.15 sneak peek (v1.14.8)</p>
