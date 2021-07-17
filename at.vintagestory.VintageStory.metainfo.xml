@@ -48,7 +48,13 @@
         </screenshot>
     </screenshots>
     <releases>
-        <release version="1.15.1" date="2021-07-16"/>
+        <release version="1.15.1" date="2021-07-16">
+            <description>
+                <p>The Homesteading update</p>
+                <p>Fixes a crash related to panning.</p>
+            </description>
+            <url>https://www.vintagestory.at/forums/topic/5104-the-homesteading-update-v1150/</url>
+        </release>
         <release version="1.15.0" date="2021-07-16">
             <description>
                 <p>The Homesteading update</p>
