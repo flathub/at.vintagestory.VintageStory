@@ -7,13 +7,13 @@
     <name>Vintage Story</name>
     <summary>Wilderness survival sandbox game</summary>
     <description>
+        <p>To play this game, you must purchase an account at
+            https://www.vintagestory.at/.</p>
         <p>Vintage Story is an uncompromising wilderness survival sandbox game
             inspired by lovecraftian horror themes. Find yourself in a ruined
             world reclaimed by nature and permeated by unnerving temporal
             disturbances. Relive the advent of human civilization, or take your
             own path.</p>
-        <p>To play this game, you must purchase an account at
-            https://www.vintagestory.at/.</p>
     </description>
     <developer_name>Anego Studios</developer_name>
     <categories>
@@ -48,14 +48,42 @@
         </screenshot>
     </screenshots>
     <releases>
-        <release version="1.14.10" date="2021-04-16"/>
-        <release version="1.14.9" date="2021-04-15"/>
+        <release version="1.15.1" date="2021-07-16">
+            <description>
+                <p>The Homesteading update</p>
+                <p>Fixes a crash related to panning.</p>
+            </description>
+            <url>https://www.vintagestory.at/forums/topic/5104-the-homesteading-update-v1150/</url>
+        </release>
+        <release version="1.15.0" date="2021-07-16">
+            <description>
+                <p>The Homesteading update</p>
+            </description>
+            <url>https://www.vintagestory.at/forums/topic/5104-the-homesteading-update-v1150/</url>
+        </release>
+        <release version="1.14.10" date="2021-04-16">
+            <description>
+                <p>Vintagehosting</p>
+                <p>Fix a connection issue with Vintagehosting servers</p>
+            </description>
+            <url>https://www.vintagestory.at/forums/topic/4442-vintagehosting-v1149-v11410/</url>
+        </release>
+        <release version="1.14.9" date="2021-04-15">
+            <description>
+                <p>Vintagehosting</p>
+            </description>
+            <url>https://www.vintagestory.at/forums/topic/4442-vintagehosting-v1149-v11410/</url>
+        </release>
         <release version="1.14.8" date="2021-02-22">
-            <description>New stable, VS Mod DB, v1.15 sneak peek (v1.14.8)</description>
+            <description>
+                <p>New stable, VS Mod DB, v1.15 sneak peek (v1.14.8)</p>
+            </description>
             <url>hhttps://www.vintagestory.at/blog.html/news/new-stable-vs-mod-db-v115-sneak-peek-v1148-r280/</url>
         </release>
         <release version="1.14.7" date="2021-01-19">
-            <description>Wintery Stability Patch (v1.14.6 &amp; 1.14.7)</description>
+            <description>
+                <p>Wintery Stability Patch (v1.14.6 &amp; 1.14.7)</p>
+            </description>
             <url>https://www.vintagestory.at/blog.html/news/wintery-stability-patch-v1146-1147-r278/</url>
         </release>
     </releases>
