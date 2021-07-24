@@ -48,7 +48,13 @@
         </screenshot>
     </screenshots>
     <releases>
-        <release version="1.15.2" date="2021-07-24"/>
+        <release version="1.15.2" date="2021-07-24">
+            <description>
+                <p>The Homesteading update, stable patch #1</p>
+                <p>Fixes a few major issues, mostly related to multiplayer.</p>
+            </description>
+            <url>https://www.vintagestory.at/blog.html/news/the-homesteading-update-stable-patch-1-v1152-r288/</url>
+        </release>
         <release version="1.15.1" date="2021-07-16">
             <description>
                 <p>The Homesteading update</p>
