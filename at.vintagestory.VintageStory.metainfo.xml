@@ -48,7 +48,12 @@
         </screenshot>
     </screenshots>
     <releases>
-        <release version="1.15.4" date="2021-08-09"/>
+        <release version="1.15.4" date="2021-08-09">
+            <description>
+                <p>The Homesteading update, balance &amp; stable patch</p>
+            </description>
+            <url>https://www.vintagestory.at/blog.html/news/the-homesteading-update-balance-stable-patch-v1154-r292/</url>
+        </release>
         <release version="1.15.3" date="2021-07-31">
             <description>
                 <p>The Homesteading update, balance &amp; stable patch</p>
