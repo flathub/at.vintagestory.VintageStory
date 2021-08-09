@@ -48,6 +48,7 @@
         </screenshot>
     </screenshots>
     <releases>
+        <release version="1.15.4" date="2021-08-09"/>
         <release version="1.15.3" date="2021-07-31">
             <description>
                 <p>The Homesteading update, balance &amp; stable patch</p>
