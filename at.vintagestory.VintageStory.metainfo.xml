@@ -48,6 +48,12 @@
         </screenshot>
     </screenshots>
     <releases>
+        <release version="1.15.6" date="2021-09-24">
+            <description>
+                <p>Homesteading balance and stability patch &amp;3</p>
+            </description>
+            <url>https://www.vintagestory.at/blog.html/news/homesteading-balance-and-stability-patch-3-v1156-r295/</url>
+        </release>
         <release version="1.15.5" date="2021-08-10">
             <description>
                 <p>fix a newly introduced crash with chiseled blocks</p>
