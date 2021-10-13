@@ -48,6 +48,7 @@
         </screenshot>
     </screenshots>
     <releases>
+        <release version="1.15.7" date="2021-10-13"/>
         <release version="1.15.6" date="2021-09-24">
             <description>
                 <p>Homesteading balance and stability patch &amp;3</p>
