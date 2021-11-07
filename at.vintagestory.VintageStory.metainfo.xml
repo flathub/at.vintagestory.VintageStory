@@ -48,10 +48,17 @@
         </screenshot>
     </screenshots>
     <releases>
+        <release version="1.15.9" date="2021-11-07">
+            <description>
+                <p>Fix a creative mode crash</p>
+            </description>
+            <url>https://www.vintagestory.at/blog.html/news/stable-ground-fog-patch-v1158-1159-r300/</url>
+        </release>
         <release version="1.15.8" date="2021-11-07">
             <description>
                 <p>Ground fog patch</p>
             </description>
+            <url>https://www.vintagestory.at/blog.html/news/stable-ground-fog-patch-v1158-1159-r300/</url>
         </release>
         <release version="1.15.7" date="2021-10-13">
             <description>
