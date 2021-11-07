@@ -48,6 +48,11 @@
         </screenshot>
     </screenshots>
     <releases>
+        <release version="1.15.8" date="2021-11-07">
+            <description>
+                <p>Ground fog patch</p>
+            </description>
+        </release>
         <release version="1.15.7" date="2021-10-13">
             <description>
                 <p>Homesteading balance and stability patch #6</p>
