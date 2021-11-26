@@ -1,16 +1,16 @@
 app-id: at.vintagestory.VintageStory
 runtime: org.freedesktop.Platform
-runtime-version: '20.08'
+runtime-version: '21.08'
 sdk: org.freedesktop.Sdk
 sdk-extensions:
   - org.freedesktop.Sdk.Extension.mono6
 command: /app/bin/vintagestory
 finish-args:
-  - --socket=x11
-  - --share=ipc
-  - --device=dri
   - --share=network
+  - --share=ipc
+  - --socket=x11
   - --socket=pulseaudio
+  - --device=dri
   - --env=MONO_PATH=/app/lib/mono/4.5
 modules:
   - name: mono
