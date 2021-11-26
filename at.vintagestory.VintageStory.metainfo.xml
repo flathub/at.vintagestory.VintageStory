@@ -48,7 +48,12 @@
         </screenshot>
     </screenshots>
     <releases>
-        <release version="1.15.10" date="2021-11-26"/>
+        <release version="1.15.10" date="2021-11-26">
+            <description>
+                <p>Stabler ground fog patch</p>
+            </description>
+            <url>https://www.vintagestory.at/blog.html/news/stabler-ground-fog-patch-v11510-r302/</url>
+        </release>
         <release version="1.15.9" date="2021-11-07">
             <description>
                 <p>Fix a creative mode crash</p>
