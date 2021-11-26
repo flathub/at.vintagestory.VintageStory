@@ -21,8 +21,8 @@ modules:
   - name: libgdiplus
     sources:
       - type: archive
-        url: https://download.mono-project.com/sources/libgdiplus/libgdiplus0-6.0.5.tar.gz
-        sha256: b81e4e5cc3e4831b2945de08bef26eb1bdcd795aeaf8f971b221c51213a025ef
+        url: https://download.mono-project.com/sources/libgdiplus/libgdiplus-6.1.tar.gz
+        sha256: 97d5a83d6d6d8f96c27fb7626f4ae11d3b38bc88a1726b4466aeb91451f3255b
   - name: VintageStory
     buildsystem: simple
     build-commands:
