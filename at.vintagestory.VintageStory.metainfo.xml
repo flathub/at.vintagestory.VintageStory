@@ -48,6 +48,7 @@
         </screenshot>
     </screenshots>
     <releases>
+        <release version="1.16.0" date="2022-01-10"/>
         <release version="1.15.10" date="2021-11-26">
             <description>
                 <p>Stabler ground fog patch</p>
