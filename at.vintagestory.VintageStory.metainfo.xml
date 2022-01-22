@@ -48,7 +48,12 @@
         </screenshot>
     </screenshots>
     <releases>
-        <release version="1.16.1" date="2022-01-22"/>
+        <release version="1.16.1" date="2022-01-22">
+            <description>
+                <p>Homesteading part 2 &amp; Combat update, stable finetune</p>
+            </description>
+            <url>https://www.vintagestory.at/blog.html/news/homesteading-part-2-combat-update-stable-finetune-1161-r313/</url>
+        </release>
         <release version="1.16.0" date="2022-01-10">
             <description>
                 <p>Homesteading part 2 &amp; Combat update</p>
