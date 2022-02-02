@@ -48,6 +48,12 @@
         </screenshot>
     </screenshots>
     <releases>
+        <release version="1.16.3" date="2022-02-02">
+            <description>
+                <p>Fix multiplayer crash for sleeping in beds</p>
+            </description>
+            <url>https://www.vintagestory.at/blog.html/news/homesteading-part-2-combat-update-stabler-finetune-1162-1163-r315/</url>
+        </release>
         <release version="1.16.2" date="2022-02-02">
             <description>
                 <p>Homesteading part 2 &amp; Combat update, stabler finetune</p>
