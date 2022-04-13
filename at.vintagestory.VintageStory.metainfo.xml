@@ -48,6 +48,12 @@
         </screenshot>
     </screenshots>
     <releases>
+        <release version="1.16.5" date="2022-04-13">
+            <description>
+                <p>Fruit tree fix</p>
+            </description>
+            <url>https://www.vintagestory.at/blog.html/news/fruit-tree-fix-v1165-r321/</url>
+        </release>
         <release version="1.16.4" date="2022-02-26">
             <description>
                 <p>Homesteading part 2 &amp; Combat update, stabler-er finetune</p>
