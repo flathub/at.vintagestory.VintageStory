@@ -48,6 +48,7 @@
         </screenshot>
     </screenshots>
     <releases>
+        <release version="1.17.0" date="2022-08-31"/>
         <release version="1.16.5" date="2022-04-13">
             <description>
                 <p>Fruit tree fix</p>
