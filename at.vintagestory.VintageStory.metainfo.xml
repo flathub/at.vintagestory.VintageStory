@@ -48,6 +48,12 @@
         </screenshot>
     </screenshots>
     <releases>
+        <release version="1.17.0" date="2022-08-31">
+            <description>
+                <p>Stable De-Jank and Game Juice Update</p>
+            </description>
+            <url>https://www.vintagestory.at/blog.html/news/stable-de-jank-and-game-juice-update-1170-r329/</url>
+        </release>
         <release version="1.16.5" date="2022-04-13">
             <description>
                 <p>Fruit tree fix</p>
