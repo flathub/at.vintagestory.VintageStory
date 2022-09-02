@@ -48,6 +48,12 @@
         </screenshot>
     </screenshots>
     <releases>
+        <release version="1.17.2" date="2022-09-02">
+            <description>
+                <p>Stabler De-Jank and Game Juice Update</p>
+            </description>
+            <url>https://www.vintagestory.at/blog.html/news/stabler-de-jank-and-game-juice-update-1172-r331/</url>
+        </release>
         <release version="1.17.1" date="2022-09-01">
             <description>
                 <p>Stabler De-Jank and Game Juice Update</p>
