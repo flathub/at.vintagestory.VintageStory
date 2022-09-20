@@ -48,6 +48,7 @@
         </screenshot>
     </screenshots>
     <releases>
+        <release version="1.17.4" date="2022-09-20"/>
         <release version="1.17.3" date="2022-09-09">
             <description>
                 <p>Stabler De-Jank and Game Juice Update</p>
