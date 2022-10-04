@@ -48,7 +48,13 @@
         </screenshot>
     </screenshots>
     <releases>
-        <release version="1.17.6" date="2022-10-04"/>
+        <release version="1.17.6" date="2022-10-04">
+            <description>
+                <p>Stabler De-Jank and Game Juice Update</p>
+                <p>fix a client crash related to condensers and a dupe bug related to wall leaning tools</p>
+            </description>
+            <url>https://www.vintagestory.at/blog.html/news/stabler-de-jank-and-game-juice-update-1175-1176-r334/</url>
+        </release>
         <release version="1.17.5" date="2022-10-02">
             <description>
                 <p>Stabler De-Jank and Game Juice Update</p>
