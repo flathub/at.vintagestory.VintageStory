@@ -48,6 +48,7 @@
         </screenshot>
     </screenshots>
     <releases>
+        <release version="1.17.10" date="2023-01-09"/>
         <release version="1.17.9" date="2022-10-19">
             <description>
                 <p>Spooktober update 2</p>
