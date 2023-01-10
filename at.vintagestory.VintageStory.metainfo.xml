@@ -48,6 +48,12 @@
         </screenshot>
     </screenshots>
     <releases>
+        <release version="1.17.10" date="2023-01-09">
+            <description>
+                <p>Bonus Bugfix Patch</p>
+            </description>
+            <url>https://www.vintagestory.at/blog.html/news/bonus-bugfix-patch-v11710-r343/</url>
+        </release>
         <release version="1.17.9" date="2022-10-19">
             <description>
                 <p>Spooktober update 2</p>
