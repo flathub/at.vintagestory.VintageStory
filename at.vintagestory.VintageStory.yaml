@@ -47,9 +47,9 @@ modules:
         path: at.vintagestory.VintageStory.metainfo.xml
       - type: extra-data
         filename: vs_archive.tar.gz
-        url: https://cdn.vintagestory.at/gamefiles/stable/vs_archive_1.17.10.tar.gz
-        sha256: d47b166f2e097fe9dd13dc6c0eb4bebc42f298379d4704a03620832e888f05e7
-        size: 391589047
+        url: https://cdn.vintagestory.at/gamefiles/stable/vs_archive_1.17.11.tar.gz
+        sha256: 888411c27257fbb18970ea9726eb489eaa525f67ca94f9b014502ae93a8d5966
+        size: 391586443
         x-checker-data:
           type: html
           url: https://api.vintagestory.at/lateststable.txt

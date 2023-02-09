@@ -48,6 +48,12 @@
         </screenshot>
     </screenshots>
     <releases>
+        <release version="1.17.11" date="2023-02-06">
+            <description>
+                <p>Mod compatibility patch and .net7 experimental build</p>
+            </description>
+            <url>https://www.vintagestory.at/blog.html/news/mod-compatibility-patch-and-net7-experimental-build-v11711-and-net7-v11711-r344/</url>
+        </release>
         <release version="1.17.10" date="2023-01-09">
             <description>
                 <p>Bonus Bugfix Patch</p>
