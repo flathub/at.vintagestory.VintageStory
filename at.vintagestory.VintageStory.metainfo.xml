@@ -48,6 +48,7 @@
         </screenshot>
     </screenshots>
     <releases>
+        <release version="1.17.12" date="2023-04-17"/>
         <release version="1.17.11" date="2023-02-06">
             <description>
                 <p>Mod compatibility patch and .net7 experimental build</p>
