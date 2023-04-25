@@ -18,6 +18,7 @@ modules:
     build-commands:
       - /usr/lib/sdk/mono6/install.sh
       - cp /usr/lib/sdk/mono6/lib/mono/4.5/cert-sync.exe /app/lib/mono/4.5/
+      - cp -a /usr/lib/sdk/mono6/lib/mono/4.5/Facades /app/lib/mono/4.5
       - install /usr/lib/sdk/mono6/lib/mono/4.5/mcs.exe /app/lib/mono/4.5
   - name: libgdiplus
     sources:
