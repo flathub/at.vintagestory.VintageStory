@@ -18,6 +18,7 @@ modules:
     build-commands:
       - /usr/lib/sdk/mono6/install.sh
       - cp /usr/lib/sdk/mono6/lib/mono/4.5/cert-sync.exe /app/lib/mono/4.5/
+      - install /usr/lib/sdk/mono6/lib/mono/4.5/mcs.exe /app/lib/mono/4.5
   - name: libgdiplus
     sources:
       - type: archive
@@ -26,7 +27,7 @@ modules:
   - name: VintageStory
     buildsystem: simple
     build-commands:
-      - install -Dpt /app/bin vintagestory apply_extra
+      - install -Dpt /app/bin vintagestory apply_extra mcs
       - install -Dpt /app/share/icons/hicolor/512x512/apps at.vintagestory.VintageStory.png
       - install -Dpt /app/share/metainfo at.vintagestory.VintageStory.metainfo.xml
       - desktop-file-install --dir=/app/share/applications at.vintagestory.VintageStory.desktop
@@ -38,6 +39,10 @@ modules:
                 # communication with Vintage Story's auth server may fail
           - /app/bin/mono ${MONO_PATH}/cert-sync.exe --quiet --user /etc/ssl/certs/ca-certificates.crt
           - exec /app/bin/mono /app/extra/vintagestory/Vintagestory.exe
+      - type: script
+        dest-filename: mcs
+        commands:
+          - exec /app/bin/mono $MONO_OPTIONS /app/lib/mono/4.5/mcs.exe "$@"
       - type: file
         path: at.vintagestory.VintageStory.desktop
       - type: file
