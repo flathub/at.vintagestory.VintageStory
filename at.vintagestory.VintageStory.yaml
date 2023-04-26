@@ -32,6 +32,7 @@ modules:
       - install -Dpt /app/share/icons/hicolor/512x512/apps at.vintagestory.VintageStory.png
       - install -Dpt /app/share/metainfo at.vintagestory.VintageStory.metainfo.xml
       - desktop-file-install --dir=/app/share/applications at.vintagestory.VintageStory.desktop
+      - desktop-file-install --dir=/app/share/applications at.vintagestory.VintageStory-vintagestoryjoin.desktop
     sources:
       - type: script
         dest-filename: vintagestory
@@ -39,13 +40,15 @@ modules:
                 # cert-sync is needed to update mono's certificates, or
                 # communication with Vintage Story's auth server may fail
           - /app/bin/mono ${MONO_PATH}/cert-sync.exe --quiet --user /etc/ssl/certs/ca-certificates.crt
-          - exec /app/bin/mono /app/extra/vintagestory/Vintagestory.exe
+          - exec /app/bin/mono /app/extra/vintagestory/Vintagestory.exe "$@"
       - type: script
         dest-filename: mcs
         commands:
           - exec /app/bin/mono $MONO_OPTIONS /app/lib/mono/4.5/mcs.exe "$@"
       - type: file
         path: at.vintagestory.VintageStory.desktop
+      - type: file
+        path: at.vintagestory.VintageStory-vintagestoryjoin.desktop
       - type: file
             # from converting Vintage Story's assets/gameicon.xpm to png
         path: at.vintagestory.VintageStory.png

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Vintage Story (join)
+NoDisplay=true
+Exec=vintagestory -c %u
+Terminal=false
+Type=Application
+StartupNotify=false
+Icon=at.vintagestory.VintageStory
+MimeType=x-scheme-handler/vintagestoryjoin
