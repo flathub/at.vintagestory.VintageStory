@@ -48,6 +48,7 @@
         </screenshot>
     </screenshots>
     <releases>
+        <release version="1.18.1" date="2023-04-22"/>
         <release version="1.17.12" date="2023-04-17">
             <description>
                 <p>Fixed game crashing when trying to connect to a password protected server without password. Backported land claim downloading.</p>
