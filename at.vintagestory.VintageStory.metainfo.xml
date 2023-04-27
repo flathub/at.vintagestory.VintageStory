@@ -48,7 +48,12 @@
         </screenshot>
     </screenshots>
     <releases>
-        <release version="1.18.1" date="2023-04-22"/>
+        <release version="1.18.1" date="2023-04-22">
+            <description>
+                <p>Lore Update: The Resonance Archives - Stable(r) release</p>
+            </description>
+            <url>https://www.vintagestory.at/blog.html/news/v1181-lore-update-the-resonance-archives-stabler-release-r353/</url>
+        </release>
         <release version="1.18.0" date="2023-04-19">
             <description>
                 <p>Lore Update: The Resonance Archives - Stable release</p>
