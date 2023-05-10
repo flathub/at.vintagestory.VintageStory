@@ -69,3 +69,11 @@ modules:
         commands:
           - tar -xf vs_archive.tar.gz
           - rm -f vs_archive.tar.gz
+          - fc-cache --force --system-only
+  - name: fontconfig
+    buildsystem: simple
+    build-commands:
+      - install -Dpm644 fontpath.conf /app/etc/fonts/local.conf
+    sources:
+      - type: file
+        path: fontpath.conf
