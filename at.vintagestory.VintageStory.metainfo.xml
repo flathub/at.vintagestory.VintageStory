@@ -48,6 +48,7 @@
         </screenshot>
     </screenshots>
     <releases>
+        <release version="1.18.2" date="2023-05-12"/>
         <release version="1.18.1" date="2023-04-22">
             <description>
                 <p>Lore Update: The Resonance Archives - Stable(r) release</p>
