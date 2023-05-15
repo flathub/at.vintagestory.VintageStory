@@ -54,6 +54,9 @@ modules:
         path: at.vintagestory.VintageStory.png
       - type: file
         path: at.vintagestory.VintageStory.metainfo.xml
+        # Use extra-data and apply_extra to download proprietary files at
+        # install time, per request of the VintageStory developers.
+        # See: https://www.vintagestory.at/forums/topic/4018-permission-for-flatpak-package/?do=findComment&comment=17400
       - type: extra-data
         filename: vs_archive.tar.gz
         url: https://cdn.vintagestory.at/gamefiles/stable/vs_archive_1.18.2.tar.gz
