@@ -48,7 +48,12 @@
         </screenshot>
     </screenshots>
     <releases>
-        <release version="1.18.2" date="2023-05-12"/>
+        <release version="1.18.2" date="2023-05-12">
+            <description>
+                <p>Lore Update: The Resonance Archives - stable server perf tweaks</p>
+            </description>
+            <url>https://www.vintagestory.at/blog.html/news/v1182-1183-lore-update-the-resonance-archives-stable-server-perf-tweaks-r356/</url>
+        </release>
         <release version="1.18.1" date="2023-04-22">
             <description>
                 <p>Lore Update: The Resonance Archives - Stable(r) release</p>
