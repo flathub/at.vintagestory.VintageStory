@@ -11,6 +11,7 @@ finish-args:
   - --socket=x11
   - --socket=pulseaudio
   - --device=dri
+  - --filesystem=xdg-pictures/Vintagestory:create
   - --env=MONO_PATH=/app/lib/mono/4.5
 modules:
   - name: mono
