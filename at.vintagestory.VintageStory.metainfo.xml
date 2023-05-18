@@ -48,7 +48,17 @@
         </screenshot>
     </screenshots>
     <releases>
-        <release version="1.18.4" date="2023-05-18"/>
+        <release version="1.18.4" date="2023-05-18">
+            <description>
+                <p>
+                    Security patch, further server perf tweaks. There is a
+                    server privileges security issue in 1.18.3 (and earlier game
+                    versions) which can affect especially the admins and other
+                    staff of multiplayer servers.
+                </p>
+            </description>
+            <url>https://www.vintagestory.at/blog.html/news/v11841185-security-patch-further-server-perf-tweaks-r357/</url>
+        </release>
         <release version="1.18.3" date="2023-05-12">
             <description>
                 <p>Lore Update: The Resonance Archives - fix a few critical issues</p>
