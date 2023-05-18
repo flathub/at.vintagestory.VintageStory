@@ -48,7 +48,12 @@
         </screenshot>
     </screenshots>
     <releases>
-        <release version="1.18.5" date="2023-05-18"/>
+        <release version="1.18.5" date="2023-05-18">
+            <description>
+                <p>Fix issues isolated to some players</p>
+            </description>
+            <url>https://www.vintagestory.at/blog.html/news/v11841185-security-patch-further-server-perf-tweaks-r357/</url>
+        </release>
         <release version="1.18.4" date="2023-05-18">
             <description>
                 <p>
