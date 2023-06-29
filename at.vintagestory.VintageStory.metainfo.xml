@@ -48,7 +48,12 @@
         </screenshot>
     </screenshots>
     <releases>
-        <release version="1.18.6" date="2023-06-28"/>
+        <release version="1.18.6" date="2023-06-28">
+            <description>
+                <p>Stable security patch</p>
+            </description>
+            <url>https://www.vintagestory.at/blog.html/news/v1186-stable-security-patch-r360/</url>
+        </release>
         <release version="1.18.5" date="2023-05-18">
             <description>
                 <p>Fix issues isolated to some players</p>
