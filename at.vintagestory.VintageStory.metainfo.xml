@@ -48,7 +48,12 @@
         </screenshot>
     </screenshots>
     <releases>
-        <release version="1.18.7" date="2023-07-23"/>
+        <release version="1.18.7" date="2023-07-23">
+            <description>
+                <p>That'll buff it out - This update contains a number of high priority fixes.</p>
+            </description>
+            <url>https://www.vintagestory.at/blog.html/news/v1187-thatll-buff-it-out-r361/</url>
+        </release>
         <release version="1.18.6" date="2023-06-28">
             <description>
                 <p>Stable security patch</p>
