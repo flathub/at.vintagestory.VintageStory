@@ -48,7 +48,12 @@
         </screenshot>
     </screenshots>
     <releases>
-        <release version="1.18.12" date="2023-09-18"/>
+        <release version="1.18.12" date="2023-09-18">
+            <description>
+                <p>Fix a missing translation entry and also add a new "Direct Mouse Mode" settings for those with mouse speed issues.</p>
+            </description>
+        </release>
+        <url>https://www.vintagestory.at/blog.html/news/v118111213-leaky-world-reload-plug-r366/</url>
         <release version="1.18.11" date="2023-09-18">
             <description>
                 <p>Leaky world reload plug</p>
