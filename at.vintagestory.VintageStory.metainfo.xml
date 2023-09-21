@@ -48,7 +48,12 @@
         </screenshot>
     </screenshots>
     <releases>
-        <release version="1.18.13" date="2023-09-20"/>
+        <release version="1.18.13" date="2023-09-20">
+            <description>
+                <p>Fix 2 bugs with the Windows installer</p>
+            </description>
+            <url>https://www.vintagestory.at/blog.html/news/v118111213-leaky-world-reload-plug-r366/</url>
+        </release>
         <release version="1.18.11" date="2023-09-18">
             <description>
                 <p>Leaky world reload plug</p>
