@@ -48,6 +48,7 @@
         </screenshot>
     </screenshots>
     <releases>
+        <release version="1.18.13" date="2023-09-20"/>
         <release version="1.18.12" date="2023-09-18">
             <description>
                 <p>Fix a missing translation entry and also add a new "Direct Mouse Mode" settings for those with mouse speed issues.</p>
