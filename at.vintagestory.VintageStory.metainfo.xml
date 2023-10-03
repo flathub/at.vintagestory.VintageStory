@@ -48,7 +48,12 @@
         </screenshot>
     </screenshots>
     <releases>
-        <release version="1.18.14" date="2023-10-03"/>
+        <release version="1.18.14" date="2023-10-03">
+            <description>
+                <p>Fixed slow but accumulating RAM and performance leak on dedicated servers, which required daily restarts to prevent overload on Linux.</p>
+            </description>
+            <url>https://www.vintagestory.at/blog.html/news/v11814-leaky-server-plug-community-meetup-r368/</url>
+        </release>
         <release version="1.18.13" date="2023-09-20">
             <description>
                 <p>Fix 2 bugs with the Windows installer</p>
