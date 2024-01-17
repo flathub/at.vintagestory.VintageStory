@@ -48,7 +48,12 @@
         </screenshot>
     </screenshots>
     <releases>
-        <release version="1.19.0" date="2024-01-17"/>
+        <release version="1.19.0" date="2024-01-17">
+            <description>
+                <p>Dejank Redux - over 500 individual features, tweaks and fixes.</p>
+            </description>
+            <url>https://www.vintagestory.at/blog.html/news/v1190-dejank-redux-stable-r374/</url>
+        </release>
         <release version="1.18.15" date="2023-10-10">
             <description>
                 <p>Fix the game crashing from carving pumpkins.</p>
