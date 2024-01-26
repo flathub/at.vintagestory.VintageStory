@@ -48,7 +48,12 @@
         </screenshot>
     </screenshots>
     <releases>
-        <release version="1.19.3" date="2024-01-26"/>
+        <release version="1.19.3" date="2024-01-26">
+            <description>
+                <p>Dejank Redux - Stablerer</p>
+            </description>
+            <url>https://www.vintagestory.at/blog.html/news/v11923-dejank-redux-stablerer-r376/</url>
+        </release>
         <release version="1.19.2" date="2024-01-25">
             <description>
                 <p>Dejank Redux - Stablerer</p>
