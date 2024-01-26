@@ -48,6 +48,7 @@
         </screenshot>
     </screenshots>
     <releases>
+        <release version="1.19.3" date="2024-01-26"/>
         <release version="1.19.2" date="2024-01-25">
             <description>
                 <p>Dejank Redux - Stablerer</p>
