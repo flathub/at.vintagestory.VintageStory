@@ -48,7 +48,12 @@
         </screenshot>
     </screenshots>
     <releases>
-        <release version="1.19.5" date="2024-03-22"/>
+        <release version="1.19.5" date="2024-03-22">
+            <description>
+                <p>YABATP stable</p>
+            </description>
+            <url>https://www.vintagestory.at/blog.html/news/v1195-yabatp-stable-r383/</url>
+        </release>
         <release version="1.19.4" date="2024-02-28">
             <description>
                 <p>Stableified glue!</p>
