@@ -48,7 +48,12 @@
         </screenshot>
     </screenshots>
     <releases>
-        <release version="1.19.6" date="2024-03-31"/>
+        <release version="1.19.6" date="2024-03-31">
+            <description>
+                <p>Anti-Double-Whammy</p>
+            </description>
+            <url>https://www.vintagestory.at/blog.html/news/v1196-anti-double-whammy-r384/</url>
+        </release>
         <release version="1.19.5" date="2024-03-22">
             <description>
                 <p>YABATP stable</p>
