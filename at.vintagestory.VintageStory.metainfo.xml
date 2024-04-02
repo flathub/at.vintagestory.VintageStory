@@ -48,7 +48,12 @@
         </screenshot>
     </screenshots>
     <releases>
-        <release version="1.19.7" date="2024-04-01"/>
+        <release version="1.19.7" date="2024-04-01">
+            <description>
+                <p>Anti-Double-Whammy</p>
+            </description>
+            <url>https://www.vintagestory.at/blog.html/news/v11967-anti-double-whammy-r384/</url>
+        </release>
         <release version="1.19.6" date="2024-03-31">
             <description>
                 <p>Anti-Double-Whammy</p>
