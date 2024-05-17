@@ -48,7 +48,12 @@
         </screenshot>
     </screenshots>
     <releases>
-        <release version="1.19.8" date="2024-05-17"/>
+        <release version="1.19.8" date="2024-05-17">
+            <description>
+                <p>Dot the i's and cross the t's. Just a maintenance patch. Should reduce the amount of server restarts server owners have to do. Fixes a few annoyances.</p>
+            </description>
+            <url>https://www.vintagestory.at/blog.html/news/v1198-dot-the-is-and-cross-the-ts-r386/</url>
+        </release>
         <release version="1.19.7" date="2024-04-01">
             <description>
                 <p>Anti-Double-Whammy</p>
