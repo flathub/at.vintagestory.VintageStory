@@ -48,6 +48,7 @@
         </screenshot>
     </screenshots>
     <releases>
+        <release version="1.19.8" date="2024-05-17"/>
         <release version="1.19.7" date="2024-04-01">
             <description>
                 <p>Anti-Double-Whammy</p>
