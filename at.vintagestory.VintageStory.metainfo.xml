@@ -48,6 +48,9 @@
         </screenshot>
     </screenshots>
     <releases>
+        <release version="1.20.1" date="2025-01-18">
+            <description></description>
+        </release>
         <release version="1.19.8" date="2024-05-17">
             <description>
                 <p>Dot the i's and cross the t's. Just a maintenance patch. Should reduce the amount of server restarts server owners have to do. Fixes a few annoyances.</p>
