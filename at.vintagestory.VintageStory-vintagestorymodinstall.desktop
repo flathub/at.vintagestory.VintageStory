@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Vintage Story (modinstall)
+NoDisplay=true
+Exec=vintagestory -i %u
+Terminal=false
+Type=Application
+StartupNotify=false
+Icon=at.vintagestory.VintageStory
+MimeType=x-scheme-handler/vintagestorymodinstall
