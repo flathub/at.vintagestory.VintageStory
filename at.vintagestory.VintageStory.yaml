@@ -31,6 +31,7 @@ modules:
       - install -Dpt /app/share/metainfo at.vintagestory.VintageStory.metainfo.xml
       - desktop-file-install --dir=/app/share/applications at.vintagestory.VintageStory.desktop
       - desktop-file-install --dir=/app/share/applications at.vintagestory.VintageStory-vintagestoryjoin.desktop
+      - desktop-file-install --dir=/app/share/applications at.vintagestory.VintageStory-vintagestorymodinstall.desktop
     sources:
       - type: script
         dest-filename: vintagestory
@@ -40,6 +41,8 @@ modules:
         path: at.vintagestory.VintageStory.desktop
       - type: file
         path: at.vintagestory.VintageStory-vintagestoryjoin.desktop
+      - type: file
+        path: at.vintagestory.VintageStory-vintagestorymodinstall.desktop
       - type: file
             # from converting Vintage Story's assets/gameicon.xpm to png
         path: at.vintagestory.VintageStory.png
