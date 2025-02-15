@@ -54,7 +54,10 @@
     </screenshots>
     <releases>
         <release version="1.20.4" date="2025-02-11">
-            <description></description>
+            <description>
+                <p>Lore Update: The Journey</p>
+            </description>
+            <url>https://www.vintagestory.at/blog.html/news/v1204-lore-update-the-journey-r398/</url>
         </release>
         <release version="1.20.3" date="2025-01-25">
             <description>
