@@ -54,7 +54,10 @@
     </screenshots>
     <releases>
         <release version="1.20.6" date="2025-03-20">
-            <description></description>
+            <description>
+                <p>Lore Update: The Journey</p>
+            </description>
+            <url>https://www.vintagestory.at/blog.html/news/v1206-gameserver-vulnerability-fix-r403/</url>
         </release>
         <release version="1.20.5" date="2025-03-18">
             <description>
