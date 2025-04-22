@@ -54,7 +54,10 @@
     </screenshots>
     <releases>
         <release version="1.20.9" date="2025-04-22">
-            <description></description>
+            <description>
+                <p>Lore Update: The Journey</p>
+            </description>
+            <url>https://www.vintagestory.at/blog.html/news/1208-rc2-stable-1209-mob-spawn-balancing-item-disappearing-fix-r406/</url>
         </release>
         <release version="1.20.7" date="2025-03-26">
             <description>
