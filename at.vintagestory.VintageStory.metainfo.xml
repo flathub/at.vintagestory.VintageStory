@@ -54,7 +54,10 @@
     </screenshots>
     <releases>
         <release version="1.20.10" date="2025-05-05">
-            <description></description>
+            <description>
+                <p>Lore Update: The Journey</p>
+            </description>
+            <url>https://www.vintagestory.at/blog.html/news/v12010-de-annoyance-fixes-r407/</url>
         </release>
         <release version="1.20.9" date="2025-04-22">
             <description>
