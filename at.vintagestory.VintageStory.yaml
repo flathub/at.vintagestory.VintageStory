@@ -20,10 +20,14 @@ finish-args:
   - --env=DOTNET_ROOT=/app/lib/dotnet
 modules:
   - name: dotnet
+    only-arches: 
+      - x86_64
     buildsystem: simple
     build-commands:
       - install.sh
   - name: VintageStory
+    only-arches: 
+      - x86_64
     buildsystem: simple
     build-commands:
       - install -Dpt /app/bin vintagestory apply_extra
@@ -68,6 +72,8 @@ modules:
           - rm -f vs_archive.tar.gz
           - fc-cache --force --system-only
   - name: fontconfig
+    only-arches: 
+      - x86_64
     buildsystem: simple
     build-commands:
       - install -Dpm644 fontpath.conf /app/etc/fonts/local.conf
