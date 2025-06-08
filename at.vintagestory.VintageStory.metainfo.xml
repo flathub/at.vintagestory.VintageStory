@@ -54,7 +54,10 @@
     </screenshots>
     <releases>
         <release version="1.20.12" date="2025-06-08">
-            <description></description>
+            <description>
+                <p>Lore Update: The Journey</p>
+            </description>
+            <url>https://www.vintagestory.at/blog.html/news/v12012-purely-stable-performance-121-update-notice-r410/</url>
         </release>
         <release version="1.20.11" date="2025-05-27">
             <description>
