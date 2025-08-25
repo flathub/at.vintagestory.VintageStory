@@ -53,6 +53,9 @@
         </screenshot>
     </screenshots>
     <releases>
+        <release version="1.21.0" date="2025-08-25">
+            <description></description>
+        </release>
         <release version="1.20.12" date="2025-06-08">
             <description>
                 <p>Lore Update: The Journey</p>
