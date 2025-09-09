@@ -53,6 +53,9 @@
         </screenshot>
     </screenshots>
     <releases>
+        <release version="1.21.1" date="2025-09-09">
+            <description></description>
+        </release>
         <release version="1.21.0" date="2025-08-25">
             <description>
                 <p>Story Chapter 2 Redux</p>
