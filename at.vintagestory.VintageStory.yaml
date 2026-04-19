@@ -53,9 +53,9 @@ modules:
         # See: https://www.vintagestory.at/forums/topic/4018-permission-for-flatpak-package/?do=findComment&comment=17400
       - type: extra-data
         filename: vs_archive.tar.gz
-        url: https://cdn.vintagestory.at/gamefiles/stable/vs_client_linux-x64_1.21.6.tar.gz
-        sha256: 2e488bffc5bd30aa66271b4aface49bea84ecdad012daa754ac683bdb2d84747
-        size: 567542617
+        url: https://cdn.vintagestory.at/gamefiles/stable/vs_client_linux-x64_1.21.7.tar.gz
+        sha256: cec54aeabe70edbed5055c48ded263b52b36ba2c41a255e2336a16d3cf03f385
+        size: 567542844
         x-checker-data:
           type: html
           url: https://api.vintagestory.at/lateststable.txt
