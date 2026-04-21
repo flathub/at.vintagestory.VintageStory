@@ -1,14 +1,13 @@
 app-id: at.vintagestory.VintageStory
 runtime: org.freedesktop.Platform
-runtime-version: '24.08'
+runtime-version: '25.08'
 sdk: org.freedesktop.Sdk
 sdk-extensions:
-  - org.freedesktop.Sdk.Extension.dotnet8
+  - org.freedesktop.Sdk.Extension.dotnet10
 build-options:
-  append-path: /usr/lib/sdk/dotnet8/bin
-  append-ld-library-path: /usr/lib/sdk/dotnet8/lib
-  env:
-    PKG_CONFIG_PATH: /app/lib/pkgconfig:/app/share/pkgconfig:/usr/lib/pkgconfig:/usr/share/pkgconfig:/usr/lib/sdk/dotnet8/lib/pkgconfig
+  append-path: /usr/lib/sdk/dotnet10/bin
+  append-ld-library-path: /usr/lib/sdk/dotnet10/lib
+  prepend-pkg-config-path: /usr/lib/sdk/dotnet10/lib/pkgconfig
 command: vintagestory
 finish-args:
   - --share=network
@@ -22,7 +21,7 @@ modules:
   - name: dotnet
     buildsystem: simple
     build-commands:
-      - install.sh
+      - /usr/lib/sdk/dotnet10/bin/install.sh
   - name: VintageStory
     buildsystem: simple
     build-commands:
@@ -53,9 +52,9 @@ modules:
         # See: https://www.vintagestory.at/forums/topic/4018-permission-for-flatpak-package/?do=findComment&comment=17400
       - type: extra-data
         filename: vs_archive.tar.gz
-        url: https://cdn.vintagestory.at/gamefiles/stable/vs_client_linux-x64_1.21.7.tar.gz
-        sha256: cec54aeabe70edbed5055c48ded263b52b36ba2c41a255e2336a16d3cf03f385
-        size: 567542844
+        url: https://cdn.vintagestory.at/gamefiles/stable/vs_client_linux-x64_1.22.0.tar.gz
+        sha256: 73dd0c6f98722fc4ad2c5acaa24020111feeea5de386196e3f912b815b3881e2
+        size: 618654808
         x-checker-data:
           type: html
           url: https://api.vintagestory.at/lateststable.txt
