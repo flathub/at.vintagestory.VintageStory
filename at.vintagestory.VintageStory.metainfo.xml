@@ -53,6 +53,9 @@
         </screenshot>
     </screenshots>
     <releases>
+        <release version="1.22.1" date="2026-04-29">
+            <description></description>
+        </release>
         <release version="1.22.0" date="2026-04-21">
             <description>
                 <p>1.22.0 - Fishing, Mechanisms, Metalworking and More!</p>
@@ -60,7 +63,7 @@
             <url>https://www.vintagestory.at/blog.html/news/1220-fishing-mechanisms-metalworking-and-more-r441/</url>
         </release>
         <release version="1.21.7" date="2026-04-18">
-            <description></description>
+            <description/>
         </release>
         <release version="1.21.6" date="2025-12-13">
             <description/>
